@@ -1,0 +1,94 @@
+#navdiv{
+    display: flex;
+    justify-content: end;
+    margin-right: 20px;
+}
+#navdiv>a{
+    text-decoration: none;
+    margin: 15px;
+}
+#div1{
+    display: flex;
+    justify-content:center;
+    margin-top: 70px;
+}
+#div3{
+     margin-left: 50px;
+     background-color: whitesmoke;
+}
+.img1{
+    width: 400px;
+}
+.btn1{
+    background-color: black;
+    color: white;
+    width:150px ;
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+#div2>h1{
+    font-size: 40px;
+}
+#div2>p{
+    font-size: 20px;
+    margin-top: 20px;
+}
+#divsub{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.headshow{
+   rotate: -90deg;
+   margin-top: 170px;
+}
+.material-symbols-outlined{
+    margin-left: 2px;
+    margin-top: 15px;
+}
+.material-symbols-outlined{
+    margin: 10px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+#div11{
+    text-align: center;
+    background-color:white;
+    border-radius: 10px;
+}
+#div22{
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+}
+#div33{
+    text-align: center;
+    background-color:white;
+    border-radius: 10px;
+}
+#arrow1{
+    margin-top: 150px;
+}
+.arrow1{
+    width: 50px;
+    color: black;
+}
+#divmain{
+    background-color:whitesmoke;
+    width: 1400px;
+    height: 900px;
+    border-radius: 15px;
+}
+.img2{
+    width:250px ;
+    height: 250px;
+}
+.img3{
+    width: 250px;
+    height: 250px;
+}
+.img4{
+    width: 250px;
+    height: 250px;
+}
